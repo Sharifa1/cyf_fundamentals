@@ -4,31 +4,33 @@
   You must write some CSS to complete this challenge.
    ===================
 */
-html,
+
 body {
   margin: 0;
   height: 100%;
+  background-color: rgb(140, 0, 255);
 }
+
 p {
   text-align: justify;
   font-size: 18px;
 }
-/* don't edit this */
+/* don't edit this
 .jest-lite-report__status--pass {
   background: var(--color-pass);
 }
 .jest-lite-report__errors {
   display: none;
-}
+} */
 
 .small-img {
-  align: center;
+  
   width: 400px;
   height: 400px;
 }
 
-#mycolor {
-  color: pink;
+#my_color {
+  color: rgb(9, 30, 223);
   background-color: green;
 }
 
